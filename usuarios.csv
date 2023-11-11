@@ -1,0 +1,11 @@
+ID_Usuário,Nome,Código_Departamento,CPF,Email,Cargo
+1,João Silva,567,123.456.789-01,joao@us.eosphoro.com,Analista de TI
+2,Maria Oliveira,324,987.654.321-01,maria@us.eosphoro.com,Gerente de Marketing
+3,Carlos Santos,324,456.789.012-34,carlos@us.eosphoro.com,Gerente de Projetos
+4,Ana Souza,657,789.012.345-67,ana@us.eosphoro.com,Analista de Redes
+5,Pedro Lima,567,234.567.890-12,pedro@us.eosphoro.com,Suporte
+6,Juliana Pereira,657, 567.890.123-45,juliana@us.eosphoro.com,Analista de Sistemas
+7,Luiz Costa,215,890.123.456-78,luiz@us.eosphoro.com,Analista de Segurança
+8,Leandro Dionisio,215,190.123.457-78,leandro@us.eosphoro.com,Técnico de Manutenção
+9,Kevin Richard,215,823.123.456-78,kevin@us.eosphoro.com,Engenheiro de Produção
+10,Amanda Bonde,324,617.123.896-78,amanda@us.eosphoro.com,Designer de marketing

@@ -1,0 +1,8 @@
+ID,Título,Descrição,Data de Abertura,Hora,Status,ID do Usuário Solicitante
+1,Problema com Impressora,Não está imprimindo,2023-10-01,10:15:00,Aberto,7
+2,Erro no Software X,Falha ao iniciar,2023-10-02,14:30:00,Em Andamento,3
+3,Solicitação de Novo Software,Instalação do Software Y,2023-10-03,09:45:00,Aberto,5
+4,Problema na Rede,Conexão instável,2023-10-04,11:20:00,Fechado,2
+5,Ajuda com Senha,Esqueci minha senha,2023-10-05, 16:00:00,Em Andamento,1
+6,Atualização de Sistema,Solicitação de atualização,2023-10-06,13:10:00,Aberto,6
+7,Problema de Hardware,Falha no hardware,2023-10-07,08:00:00,Em Andamento,7
